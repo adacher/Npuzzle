@@ -5,7 +5,7 @@ Potential display issues on non-macosx systems.
 
 Run with random generated puzzle :
 
-Php n_puzzle.php 
+php n_puzzle.php 
 
 Run with existing tests :
 
